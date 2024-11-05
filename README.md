@@ -1,7 +1,7 @@
 
-## Olá eu sou o Thiago
+## Sobre mim
 
-tenho 16 anos, estou cursando Imformatica no campus de Maranguape.
+Me chamo Thiago Monteiro Barros tenho 16 anos, estou cursando Imformatica no campus de Maranguape.
 
 ## Repositórios
 - [Programação orientada a objetos](https://github.com/Thiago007-py/CTI-P7-POO-20242-LISTA01) :**Java**
