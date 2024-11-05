@@ -1,8 +1,8 @@
 ## Sobre Mim
 
-Olá! Eu sou o **Thiago Monteiro**, um estudante dedicado e sempre em busca de aprender e evoluir. Atualmente, estou focado em Html, Python3 e java. Tenho uma paixão por explorar novas tecnologias, resolver problemas e colaborar em projetos desafiadores.
+Olá! Eu sou o **Thiago Monteiro Barros**, um estudante dedicado e sempre em busca de aprender e evoluir. Atualmente, estou focado em Html, Python3 e java. Tenho uma paixão por explorar novas tecnologias, resolver problemas e colaborar em projetos desafiadores.
 
-- **Nome:** Thiago Monteiro
+- **Nome:** Thiago Monteiro Barros
 - **Curso/Área de Interesse:** [Informática]
 - **Email:** [Monteiro.barros07@aluno.ifce.edu.br]
 
