@@ -1,16 +1,14 @@
-## Hi there 👋
 
-<!--
-**Thiago007-py/Thiago007-py** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Olá eu sou o Thiago
 
-Here are some ideas to get you started:
+tenho 16 anos, estou cursando Imformatica no campus de Maranguape.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Repositórios
+-[Programação orientada a objetos](https://github.com/Thiago007-py/CTI-P7-POO-20242-LISTA01) :**Java**
+-[Web](https://github.com/Thiago007-py/Atividades-WEB-I---HTML) :**Html**
+
+
+## Linguagens de programação/marcação
+- *Python*
+- *java*
+- *html*
